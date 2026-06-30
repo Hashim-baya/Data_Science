@@ -1,0 +1,21 @@
+course_id,department_id,course_name,credits
+CRS001,DEP001,Computer Science Course 1,4
+CRS002,DEP001,Computer Science Course 2,2
+CRS003,DEP001,Computer Science Course 3,2
+CRS004,DEP001,Computer Science Course 4,4
+CRS005,DEP002,IT Course 1,3
+CRS006,DEP002,IT Course 2,2
+CRS007,DEP002,IT Course 3,2
+CRS008,DEP002,IT Course 4,2
+CRS009,DEP003,Business Course 1,4
+CRS010,DEP003,Business Course 2,2
+CRS011,DEP003,Business Course 3,4
+CRS012,DEP003,Business Course 4,4
+CRS013,DEP004,Engineering Course 1,4
+CRS014,DEP004,Engineering Course 2,2
+CRS015,DEP004,Engineering Course 3,4
+CRS016,DEP004,Engineering Course 4,3
+CRS017,DEP005,Education Course 1,2
+CRS018,DEP005,Education Course 2,2
+CRS019,DEP005,Education Course 3,2
+CRS020,DEP005,Education Course 4,2

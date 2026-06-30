@@ -1,0 +1,1 @@
+Starter dataset with intentional duplicates, missing emails, mixed gender labels, and invalid scores.
