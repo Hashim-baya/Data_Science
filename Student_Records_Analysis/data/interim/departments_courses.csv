@@ -1,0 +1,21 @@
+department_id,department_name,course_name,credits
+DEP001,Computer Science,Computer Science Course 1,4
+DEP001,Computer Science,Computer Science Course 2,2
+DEP001,Computer Science,Computer Science Course 3,2
+DEP001,Computer Science,Computer Science Course 4,4
+DEP002,IT,IT Course 1,3
+DEP002,IT,IT Course 2,2
+DEP002,IT,IT Course 3,2
+DEP002,IT,IT Course 4,2
+DEP003,Business,Business Course 1,4
+DEP003,Business,Business Course 2,2
+DEP003,Business,Business Course 3,4
+DEP003,Business,Business Course 4,4
+DEP004,Engineering,Engineering Course 1,4
+DEP004,Engineering,Engineering Course 2,2
+DEP004,Engineering,Engineering Course 3,4
+DEP004,Engineering,Engineering Course 4,3
+DEP005,Education,Education Course 1,2
+DEP005,Education,Education Course 2,2
+DEP005,Education,Education Course 3,2
+DEP005,Education,Education Course 4,2
